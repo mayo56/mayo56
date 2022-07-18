@@ -1,6 +1,6 @@
 # Mayo !
 ## Qui suis-je ?
-Un developpeur amateur tout simplement. J'ai appris la programmation en autodidact, je ne suis pas parfait, mais j'apprends de mes erreurs et j'essaies de progresser huhu !
+Un développeur amateur tout simplement. J'ai appris la programmation en autodidact, je ne suis pas parfait, mais j'apprends de mes erreurs et j'essaye de progresser huhu !
 <br/>
 Voici des serveurs Discord qui m'ont permis de progresser !
 <br/>
@@ -13,11 +13,11 @@ https://discord.gg/DT7896HN
 <br/>
 https://discord.gg/AMZthMC4
 ## Mon parcours ?
-J'ai débuté avec __Discord.js__, j'ai conféctionné des des petits bots afin de m'entraîner ! (Apprentissage de Javascript et de TypeScript)
+J'ai débuté avec __Discord js__, j'ai confectionné des petits bots afin de m'entraîner ! (Apprentissage de Javascript et de Typescript)
 <br/>
 Ensuite, j'ai découvert le web avec __ReactJS__ (front) et __Express.JS__ (back), et je developpe deux projets :
 - Alpinezy
 - Mayocompagnie
-## Mes projets futur ?
-Finaliser mes deux projet web en cours, et créer une __intelligence artificiel__ capable de faire une conversation avec quelqu'un pour la rendre heureuse ^^
+## Mes projets futurs ?
+Finaliser mes deux projets web en cours, et créer une __intelligence artificielle__ capable de faire une conversation avec quelqu'un pour la rendre heureuse ^^
 (C'est un grand rêve, est-il réalisable ?)
