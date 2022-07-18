@@ -2,7 +2,7 @@
 ## Qui suis-je ?
 Un developpeur amateur tout simplement. J'ai appris la programmation en autodidact, je ne suis pas parfait, mais j'apprends de mes erreurs et j'essaies de progresser huhu !
 <br/>
-Voici des serveurs discord qui m'ont permis de progresser !
+Voici des serveurs Discord qui m'ont permis de progresser !
 <br/>
 <br/>
 `Web Developpeur 🥥`
