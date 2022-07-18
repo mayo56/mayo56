@@ -5,7 +5,7 @@ Un développeur amateur tout simplement. J'ai appris la programmation en autodid
 Voici les serveurs Discord qui m'ont permis de progresser !
 <br/>
 <br/>
-`Web Developpeur 🥥`
+`Web Developers 🥥`
 <br/>
 https://discord.gg/DT7896HN
 <br/>
