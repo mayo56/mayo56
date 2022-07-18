@@ -13,11 +13,11 @@ https://discord.gg/DT7896HN
 <br/>
 https://discord.gg/AMZthMC4
 ## Mon parcours ?
-J'ai débuté avec Discord.js, j'ai conféctionné des des petits bots afin de m'entraîner ! (Apprentissage de Javascript et de TypeScript)
+J'ai débuté avec __Discord.js__, j'ai conféctionné des des petits bots afin de m'entraîner ! (Apprentissage de Javascript et de TypeScript)
 <br/>
-Ensuite, j'ai découvert le web avec ReactJS (front) et Express.JS (back), et je developpe deux projets :
+Ensuite, j'ai découvert le web avec __ReactJS__ (front) et __Express.JS__ (back), et je developpe deux projets :
 - Alpinezy
 - Mayocompagnie
 ## Mes projets futur ?
-Finaliser mes deux projet web en cours, et créer une intelligence artificiel capable de faire une conversation avec quelqu'un pour la rendre heureuse ^^
+Finaliser mes deux projet web en cours, et créer une __intelligence artificiel__ capable de faire une conversation avec quelqu'un pour la rendre heureuse ^^
 (C'est un grand rêve, est-il réalisable ?)
