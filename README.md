@@ -19,5 +19,5 @@ Ensuite, j'ai découvert le web avec __ReactJS__ (front) et __Express.JS__ (back
 - Alpinezy (<a href='https://github.com/mayo56/Alpinezy-api'>API</a>, <a href='https://github.com/mayo56/Alpinezy-react'>Front</a>)
 - Mayocompagnie (<a href='https://github.com/mayo56/MayoCompagnieAPI'>API</a>, <a href='https://github.com/mayo56/MayoStreamReact'>MayoStream</a>)
 ## Mes projets futurs ?
-Finaliser mes deux projets web en cours, et créer une __intelligence artificielle__ capable de faire une conversation avec quelqu'un pour la rendre heureuse ^^
+Finaliser mes deux projets web en cours, et créer une __intelligence artificielle__ (<a href='https://github.com/mayo56/Lea'>Léa</a>) capable de faire une conversation avec quelqu'un pour la rendre heureuse ^^
 (C'est un grand rêve, est-il réalisable ?)
