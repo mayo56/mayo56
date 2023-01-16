@@ -9,7 +9,7 @@ Voici les serveurs Discord qui m'ont permis de progresser !
 <br/>
 https://discord.gg/DT7896HN
 <br/>
-`Code Entraide`
+`DisCode`
 <br/>
 https://discord.gg/AMZthMC4
 ## Mon parcours ?
