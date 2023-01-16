@@ -11,7 +11,7 @@ https://discord.gg/DT7896HN
 <br/>
 `DisCode`
 <br/>
-https://discord.gg/AMZthMC4
+https://discord.gg/discode
 ## Mon parcours ?
 J'ai débuté avec __Discord js__, j'ai confectionné des petits bots afin de m'entraîner ! (Apprentissage de Javascript et de Typescript)
 <br/>
