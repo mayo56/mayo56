@@ -18,3 +18,5 @@ J'ai débuté avec __Discord js__, j'ai confectionné des petits bots afin de m'
 Ensuite, j'ai découvert le web avec __ReactJS__ (front) et __Express.JS__ (back), et je developpe deux projets :
 - Alpinezy (<a href='https://github.com/mayo56/Alpinezy-api'>API</a>, <a href='https://github.com/mayo56/Alpinezy-react'>Front</a>)
 - Mayocompagnie (<a href='https://github.com/mayo56/MayoCompagnieAPI'>API</a>, <a href='https://github.com/mayo56/MayoStreamReact'>MayoStream</a>)
+## MayoCompagnie ?
+[MayoCompagnie](https://github.com/mayocompagnie) est un projet de compagnie pour plusieurs projets. Il regroupe notament le projet de [Léonie](https://github.com/mayocompagnie/leonie) (Un bot discord).
